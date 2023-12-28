@@ -1,0 +1,276 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "HP 14s, Ryzen 5-5500U 16GB RAM/512GB SSD ",
+      "href": "https://amzn.to/49kLRp8",
+      "description": "HP 14s, Ryzen 5-5500U 16GB RAM/512GB SSD 14-inches (35.6 cm) FHD, IPS, Micro-Edge Display/AMD Radeon Graphics/Alexa/Win 11/Backlit KB/Dual Speakers/MSO 2021/1.46 Kg, 14s- fy1003AU, Windows 11",
+      "price": 43890,
+      "discountPercentage": 12.96,
+      "rating": 4.1,
+      "stock": 94,
+      "brand": "HP",
+      "category": "App Development",
+      "thumbnail": "https://m.media-amazon.com/images/I/71NyGVS+j2L._SY355_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "HP 14s,7c Gen Qualcomm Snapdragon",
+      "href": "https://amzn.to/3Qb2yuq",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 44990,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "HP",
+      "category": "App Development",
+      "thumbnail": "https://m.media-amazon.com/images/I/71WY2eKAqBL._SY355_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/2/1.jpg",
+        "https://i.dummyjson.com/data/products/2/2.jpg",
+        "https://i.dummyjson.com/data/products/2/3.jpg",
+        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "HP Laptop 15s, AMD Ryzen 5 5500U",
+      "href": "https://amzn.to/3Fz32W6",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 38900,
+      "discountPercentage": 15.46,
+      "rating": 4.1,
+      "stock": 36,
+      "brand": "HP",
+      "category": "App Development",
+      "thumbnail": "https://m.media-amazon.com/images/I/71JhTb49NnL._SY355_.jpg",
+      "images": ["https://i.dummyjson.com/data/products/3/1.jpg"]
+    },
+    {
+      "id": 4,
+      "title": "MSI Modern 14 Ryzen 5 Hexa Core 5500U",
+      "href": "https://amzn.to/4708bSO",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 41490,
+      "discountPercentage": 17.91,
+      "rating": 3.9,
+      "stock": 123,
+      "brand": "MSI",
+      "category": "App Development",
+      "thumbnail": "https://m.media-amazon.com/images/I/41pYpjMAvaL._SY300_SX300_QL70_FMwebp_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/4/1.jpg",
+        "https://i.dummyjson.com/data/products/4/2.jpg",
+        "https://i.dummyjson.com/data/products/4/3.jpg",
+        "https://i.dummyjson.com/data/products/4/4.jpg",
+        "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "MSI Modern 15, AMD Ryzen 5-7530U",
+      "href": "https://amzn.to/3SfO139",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 45990,
+      "discountPercentage": 10.58,
+      "rating": 4.1,
+      "stock": 32,
+      "brand": "MSI",
+      "category": "App Development",
+      "thumbnail": "https://m.media-amazon.com/images/I/718AiQQtJBL._SY355_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/5/1.jpg",
+        "https://i.dummyjson.com/data/products/5/2.jpg",
+        "https://i.dummyjson.com/data/products/5/3.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "MSI Modern 15, AMD Ryzen 5-7530U",
+      "href": "https://amzn.to/3SazXYL",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 41729,
+      "discountPercentage": 11.02,
+      "rating": 3.7,
+      "stock": 83,
+      "brand": "MSI",
+      "category": "Web Development",
+      "thumbnail": "https://m.media-amazon.com/images/I/61sCwCLFJWL._SY355_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/6/1.png",
+        "https://i.dummyjson.com/data/products/6/2.jpg",
+        "https://i.dummyjson.com/data/products/6/3.png",
+        "https://i.dummyjson.com/data/products/6/4.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "ASUS Vivobook Go 15 OLED (2023) Ryzen 3",
+      "href": "https://www.flipkart.com/asus-vivobook-go-15-oled-2023-ryzen-3-quad-core-7320u-8-gb-512-gb-ssd-windows-11-home-e1504fa-lk322ws-thin-light-laptop/p/itma00c7ae7d7ce7?pid=COMGMGXFE9F37AMQ&lid=LSTCOMGMGXFE9F37AMQLGQ2YD&marketplace=FLIPKART&q=laptop+above+35k&store=6bo%2Fb5g&srno=s_3_64&otracker=search&otracker1=search&fm=Search&iid=6306dcd6-d10e-4d1f-bdcb-923183dc1c60.COMGMGXFE9F37AMQ.SEARCH&ppt=sp&ppn=sp&qH=d2ae3950a242e8be",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 40990,
+      "discountPercentage": 4.15,
+      "rating": 4.4,
+      "stock": 50,
+      "brand": "ASUS",
+      "category": "Web Development",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/j/w/d/-original-imagpxgqz93j3fgy.jpeg?q=70",
+      "images": [
+        "https://i.dummyjson.com/data/products/7/1.jpg",
+        "https://i.dummyjson.com/data/products/7/2.jpg",
+        "https://i.dummyjson.com/data/products/7/3.jpg",
+        "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "HP Ryzen 3 Quad Core 5300U",
+      "href": "https://www.flipkart.com/hp-ryzen-3-quad-core-5300u-8-gb-512-gb-ssd-windows-11-home-fq1089au-thin-light-laptop/p/itmb13c397771346?pid=COMGAY9Y7WXZYFDA&lid=LSTCOMGAY9Y7WXZYFDALA89IW&marketplace=FLIPKART&q=laptop+above+35k&store=6bo%2Fb5g&spotlightTagId=FkPickId_6bo%2Fb5g&srno=s_1_6&otracker=search&otracker1=search&fm=Search&iid=11054756-911b-4714-b18a-b7d1cc8c06a1.COMGAY9Y7WXZYFDA.SEARCH&ppt=sp&ppn=sp&ssid=om4v9l2wfk0000001696618650729&qH=d2ae3950a242e8be",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 33999,
+      "discountPercentage": 10.23,
+      "rating": 4.3,
+      "stock": 68,
+      "brand": "HP",
+      "category": "Web Development",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/n/r/p/-original-imaguhwbng9jcbgw.jpeg?q=70",
+      "images": [
+        "https://i.dummyjson.com/data/products/8/1.jpg",
+        "https://i.dummyjson.com/data/products/8/2.jpg",
+        "https://i.dummyjson.com/data/products/8/3.jpg",
+        "https://i.dummyjson.com/data/products/8/4.jpg",
+        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "MSI Core i5 11th Gen 1155G7",
+      "href": "https://www.flipkart.com/msi-core-i5-11th-gen-1155g7-8-gb-512-gb-ssd-windows-11-home-modern-14-c11m-030in-thin-light-laptop/p/itmb73991d2194a6?pid=COMGMV6VGGS4RHD8&lid=LSTCOMGMV6VGGS4RHD83FGVU7&marketplace=FLIPKART&q=laptop+above+35k&store=6bo%2Fb5g&srno=s_1_20&otracker=search&otracker1=search&fm=search-autosuggest&iid=11054756-911b-4714-b18a-b7d1cc8c06a1.COMGMV6VGGS4RHD8.SEARCH&ppt=sp&ppn=sp&ssid=om4v9l2wfk0000001696618650729&qH=d2ae3950a242e8be",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 35990,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "MSI",
+      "category": "Web Development",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/s/b/s/-original-imagnqmw9myer3sa.jpeg?q=70",
+      "images": [
+        "https://i.dummyjson.com/data/products/9/1.jpg",
+        "https://i.dummyjson.com/data/products/9/2.png",
+        "https://i.dummyjson.com/data/products/9/3.png",
+        "https://i.dummyjson.com/data/products/9/4.jpg",
+        "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "ASUS Vivobook Go 14 (2023), AMD Ryzen 3 7320U",
+      "href": "https://amzn.to/3SfHWUm",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 33599,
+      "discountPercentage": 6.18,
+      "rating": 4.6,
+      "stock": 89,
+      "brand": "ASUS",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/610ltAOW9NL._SY355_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/10/1.jpg",
+        "https://i.dummyjson.com/data/products/10/2.jpg",
+        "https://i.dummyjson.com/data/products/10/3.jpg",
+        "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "HP Smartchoice 14s, 11th Gen Intel Core i3-1125G4",
+      "href": "https://amzn.to/3MhnSx5",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "price": 32990,
+      "discountPercentage": 8.4,
+      "rating": 4.0,
+      "stock": 65,
+      "brand": "HP",
+      "category": "Programming",
+      "thumbnail": "https://m.media-amazon.com/images/I/717hLEbS0CL._SY355_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/11/1.jpg",
+        "https://i.dummyjson.com/data/products/11/2.jpg",
+        "https://i.dummyjson.com/data/products/11/3.jpg",
+        "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "HP Laptop 14s, AMD Ryzen 3 5300U",
+      "href": "https://amzn.to/3Sfk1Ep",
+      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+      "price": 33999,
+      "discountPercentage": 15.66,
+      "rating": 4.3,
+      "stock": 52,
+      "brand": "HP",
+      "category": "Programming",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Iz8GT8tzL._SY355_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/12/1.jpg",
+        "https://i.dummyjson.com/data/products/12/2.jpg",
+        "https://i.dummyjson.com/data/products/12/3.png",
+        "https://i.dummyjson.com/data/products/12/4.jpg",
+        "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "MSI Modern 15, Intel 12th Gen. i3-1215U",
+      "href": "https://amzn.to/476VB4h",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+      "price": 34990,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "MSI",
+      "category": "Programming",
+      "thumbnail": "https://m.media-amazon.com/images/I/613l2kLVCRL._SX425_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/13/1.jpg",
+        "https://i.dummyjson.com/data/products/13/2.png",
+        "https://i.dummyjson.com/data/products/13/3.jpg",
+        "https://i.dummyjson.com/data/products/13/4.jpg",
+        "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "MSI Core i3 12th Gen 1215U ",
+      "href": "https://www.flipkart.com/msi-core-i3-12th-gen-1215u-8-gb-512-gb-ssd-windows-11-home-modern-14-c12m-445in-thin-light-laptop/p/itmf3e5fc293fc90?pid=COMGMV6VQPNPGCBW&lid=LSTCOMGMV6VQPNPGCBWBS1ZKN&marketplace=FLIPKART&q=msi+laptop+under+25k&store=search.flipkart.com&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=a4ba21ec-0235-44fe-a263-7dcb0aeaef44.COMGMV6VQPNPGCBW.SEARCH&ppt=sp&ppn=sp&ssid=rdyrdv8wjk0000001696616530843&qH=f1c46bb6dad7555a",
+      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+      "price": 34990,
+      "discountPercentage": 15.6,
+      "rating": 4.4,
+      "stock": 114,
+      "brand": "MSI",
+      "category": "Programming",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/k/h/a/-original-imagnqmwbbxzm8tp.jpeg?q=70",
+      "images": [
+        "https://i.dummyjson.com/data/products/14/1.jpg",
+        "https://i.dummyjson.com/data/products/14/2.jpg",
+        "https://i.dummyjson.com/data/products/14/3.jpg",
+        "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "ASUS [SmartChoice] Vivobook 15, Intel Celeron N4020",
+      "href": "https://amzn.to/45LZRVN",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 28990,
+      "discountPercentage": 10.99,
+      "rating": 3.9,
+      "stock": 105,
+      "brand": "ASUS",
+      "category": "Programming",
+      "thumbnail": "https://m.media-amazon.com/images/I/71kJlKb2r8L._SY355_.jpg"
+    }
+  ]
+}
